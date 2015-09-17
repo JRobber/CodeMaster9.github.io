@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/CodeMaster7/Resume/issues"
   },
-  "homepage": "https://github.com/CodeMaster7/Resume#readme"
+  "homepage": "https://github.com/CodeMaster7/Resume#readme",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+  }
 }
