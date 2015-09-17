@@ -94,7 +94,7 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 .fixed .navbar  { position: fixed; top: 60px;}
 
 .background-white2 {background: #ffffff}
-.background-white { background: #FFFFFF; margin-top: 51.3%;}
+.background-white { background: #FFFFFF; margin-top: 50%;}
 .background-gray { background: #434242; }
 .container { max-width: 1280px; padding: 40px 180px; }
 
@@ -355,3 +355,9 @@ figure.effect:hover p {
 	-webkit-transform: translate3d(0,0,0);
 	transform: translate3d(0,0,0);
 }
+
+/*
+* {
+    outline: 1px solid red;
+}
+*/
